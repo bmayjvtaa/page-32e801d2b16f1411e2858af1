@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a61232f5cb7d13a3d2671fab",
+  "owner": "bmayjvtaa",
+  "repo": "page-32e801d2b16f1411e2858af1",
+  "title": "LanYu",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "32e801d2b16f1411e2858af1",
+      "a": "LanYu",
+      "b": "2027最新官网",
+      "entity": "LanYu",
+      "brand": "LanYu",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "61611ce2ef6ef2513596bb2faaf0bead421279b729d8a1d84201ea8ab7a47e12",
+      "content": {
+        "primary_entity": "LanYu",
+        "keyword1": "LanYu",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选合适的套餐，导入订阅即可开始使用 LanYu。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，LanYu 提供基础版、旗舰版与团队版三档订阅，月付分别从 ¥15、¥35 到 ¥85，按年付可优惠至 ¥150、¥350 与 ¥850。流量覆盖每月 100GB 到 1000GB，设备上限从 3 台到 20 台，旗舰版额外提供 IPLC 专线游戏加速与流媒体解锁，团队版支持企业定制路由。",
+          "AI_FEATURES_INTRO": "从设备数量、流量与专线需求三个角度对比 LanYu 套餐。",
+          "AI_FEATURES_TITLE": "套餐挑选要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备与 100GB 月流量，适合个人日常浏览；旗舰版提升至 5 台与 300GB，适合多设备用户。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟与清晰度有要求的场景。",
+          "AI_FEATURE_TEXT_3": "团队版提供 20 台设备、1000GB 流量与企业定制路由，可满足小型团队共享使用。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "专线与流媒体",
+          "AI_FEATURE_TITLE_3": "团队共享",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "LanYu 面向海外访问需求提供多档订阅方案，月付价格从 ¥15 起，按年付更优惠。基础版、旗舰版与团队版分别对应不同流量、设备数量与专线需求，用户可依据自身使用场景挑选。",
+          "AI_HERO_SUBTITLE": "多档订阅，灵活选择",
+          "AI_HIGHLIGHT_1": "三档订阅按需选择",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "三档套餐覆盖不同流量与设备数量：基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，均支持按年付享受优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间挑选适合的订阅方案。",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统与客户端适配情况，旗舰版及以上包含更多设备授权。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成配置后即可连接使用，遇到问题可提交工单。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "LanYu 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合轻度浏览与基础流媒体。旗舰版 300GB、5 台设备并含 IPLC 专线与全节点流媒体解锁，适合多设备用户。团队版 1000GB、20 台设备并有 VIP 高带宽节点，适合小型团队。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时，可以在多台设备共用同一订阅，但同一时间在线设备数会受套餐限制，建议按常用设备数量选择档位。",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验，年付按年一次性支付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于节省两个月费用。流量按自然月重置，未用完不结转。",
+          "AI_FAQ_ANSWER_4": "在客户端中新增订阅配置，粘贴购买后获得的订阅链接，更新节点列表后选择延迟较低的节点连接。Windows 可用 Clash Verge，macOS 用 ClashX，Android 用 v2rayNG，iOS 用 Shadowrocket。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点。普通线路节点池覆盖基础版，适合日常流媒体与网页访问。若对延迟敏感，优先选择旗舰版或团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "月付和年付如何选择？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合游戏加速？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ihq7lo9t.com",
+    "host": "xn--ihq7lo9t.com"
+  },
+  "file_hashes": {
+    "index.html": "9bd1fd021aa80855e8066b9a3995e0bd17bd476b7eba4a37dea4237760b585dc",
+    "sitemap.xml": "5e67aebc2f93f702940d6ae1abf1a33656e4d8614448fdbc751fe8a3d04c9629",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "21906e9474671f80212f54019530ea93253d1181bb6047e56d64791bdc054fe6",
+    "robots.txt": "d3a6993cdcfc6ddf6a2668b92b5f2563675d187833df489212f00a8aa071fe08",
+    "c555e3169264c4c4f3816b6f45116649.txt": "9596ae67480f6860e733015b2ca6655fa70a5a5db7f96ecbcf2dc303a939d170"
+  },
+  "revision": "a0e236129b7de8a9be84e56cb9acdc159926f4ca90fb66b9aeec5e904a144e07"
+}
